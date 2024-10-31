@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+}
+.form-list {
+    width: fit-content;
+    margin: auto;
+    font-size: 25px;
+}
+label {
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+}
+th {
+    display: block;
+}
+td {
+    display: block;
+}
+input {
+    width: 300px;
+    height: 20px;
+}
+.form-submit{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+button{
+    border-radius: 15px;
+}
+.btn-regist {
+    outline: none;
+    border: none;
+    background: #fc7e2a;
+}
+.btn-back {
+    outline: none;
+    border: none;
+    background: #00FFFF;
+    margin-left: 30px;
+    padding-left: 22px;
+    padding-right: 22px;
+}
